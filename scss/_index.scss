@@ -69,6 +69,9 @@ h1 {
 }
 
 .contact {
+  a {
+    color: white;
+  }
   &-list {
     text-align: center;
     li:not(last-child) {
